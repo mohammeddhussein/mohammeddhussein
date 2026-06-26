@@ -26,7 +26,7 @@ I'm a Computer Engineering student and hardware design engineer focused on **RIS
 - Build a suitable verification environment for designs (Module/Class/UVM-based).
 
 **Engineering philosophy:**
-I care about understanding *every* layer of the stack — from instruction set semantics (C code) down to register-transfer logic and physical gates. I'd rather spend an extra hour reading a waveform than guess at a fix: correctness, traceability, and clear documentation matter to me as much as a working design.
+I care about understanding *every* layer of the stack, starting from C code, to instruction set semantics, then down to register-transfer logic and physical gates. I'd rather spend an extra hour reading a waveform than guess at a fix: correctness, traceability, and clear documentation matter to me as much as a working design.
 
 **Current focus:**
 SoC Integration and exploring Digital Verification world.
