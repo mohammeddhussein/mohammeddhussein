@@ -120,7 +120,7 @@ I'm looking to grow into a full-time role in **RTL design, ASIC/Digital IC desig
 **Scripting**
 
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
-![Tcl](https://img.shields.io/badge/Tcl-3A5FCD?style=flat)
+![TCL](https://img.shields.io/badge/Tcl-3A5FCD?style=flat)
 ![Makefile](https://img.shields.io/badge/Make-A42E2B?style=flat&logo=gnu&logoColor=white)
 
 **Operating Systems**
