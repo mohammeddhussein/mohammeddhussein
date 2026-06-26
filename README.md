@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a Computer Engineering student and hardware design engineer focused on **RISC-V SoC integration** and **custom hardware accelerators**. My graduation project, **RISCyLUT**, involves integrating a custom **LUT-based Deep Learning Accelerator (LUT-DLA)** into a RISC-V System-on-Chip built on the **PulpISSimo** platform — covering the full stack from architecture and RTL design to driver development and ASIC synthesis.
+I'm a Computer Engineering student and hardware design engineer focused on **RISC-V SoC integration** and **custom hardware accelerators**. My graduation project, **RISCyLUT**, involves integrating a custom **LUT-based Deep Learning Accelerator (LUT-DLA)** into a RISC-V System-on-Chip, covering the full stack from architecture and RTL design to driver development and ASIC synthesis.
 
 **What I do:**
 - Design and integrate SoC, with the suitable usage of interconnects (AHB/APB/AXI).
