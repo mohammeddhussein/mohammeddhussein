@@ -2,7 +2,7 @@
 
 # Hi, I'm Mohammed Hussein 👋
 
-### ASIC / RTL Design Engineer &nbsp;|&nbsp; RISC-V SoC Integration &nbsp;
+### ASIC / RTL Design Engineer &nbsp;|&nbsp; SoC Integration &nbsp;
 
 **Building the bridge between silicon and software**
 
