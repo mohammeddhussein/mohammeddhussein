@@ -153,7 +153,7 @@ A synthesizable SPI slave peripheral with a self-checking testbench and loopback
 
 ---
 
-
+<!--
 ## GitHub Statistics
 
 <div align="center">
@@ -177,7 +177,7 @@ A synthesizable SPI slave peripheral with a self-checking testbench and loopback
 </div>
 
 ---
-
+-->
 ## Connect With Me
 
 <!-- EDIT: fill in real links -->
