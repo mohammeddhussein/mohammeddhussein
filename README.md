@@ -193,5 +193,5 @@ A synthesizable SPI slave peripheral with a self-checking testbench and loopback
 
 
 <div align="center">
-<sub>Last updated: <!-- EDIT: month/year -->June 2026</sub>
+<sub>Last updated: <!-- EDIT: month/year -->July 2026</sub>
 </div>
